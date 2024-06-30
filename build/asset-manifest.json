@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dc1677b.css",
+    "main.js": "/static/js/main.623ca4c7.js",
+    "static/media/8.jpg": "/static/media/8.f1340b6f10e1aa2e5b84.jpg",
+    "static/media/set.jpeg": "/static/media/set.320c5a269720ee3b4996.jpeg",
+    "static/media/6.png": "/static/media/6.074ffd10ac984c5493de.png",
+    "static/media/second-hero-subimg.png": "/static/media/second-hero-subimg.9122f12c061bbc8f2fbb.png",
+    "static/media/large_bowl.png": "/static/media/large_bowl.246fc61a086a3ef62c12.png",
+    "static/media/canvas pfp.png": "/static/media/canvas pfp.34e73b9c276be5dea27f.png",
+    "static/media/canvas pfp 2.png": "/static/media/canvas pfp 2.f9dae8ca214d86827e53.png",
+    "static/media/1.png": "/static/media/1.a4d3cb2e5d84e501fa93.png",
+    "static/media/5.png": "/static/media/5.951d43d86ac71832143a.png",
+    "static/media/2.png": "/static/media/2.47799f2ef641b483b031.png",
+    "static/media/hero-img.png": "/static/media/hero-img.6fc7541351ebebf90c26.png",
+    "static/media/second-hero-img.png": "/static/media/second-hero-img.bfb0136af1065b2a8278.png",
+    "static/media/teapot.png": "/static/media/teapot.561fb683b8a67afa5081.png",
+    "static/media/3.png": "/static/media/3.d0d2f74b88b8a90c3fdc.png",
+    "static/media/cup.png": "/static/media/cup.d0d2f74b88b8a90c3fdc.png",
+    "static/media/7.png": "/static/media/7.593dffd346468f9bba20.png",
+    "static/media/sake_set.png": "/static/media/sake_set.593dffd346468f9bba20.png",
+    "static/media/header-img.png": "/static/media/header-img.2315d22db888bbf68c5a.png",
+    "static/media/condiment_bowl.png": "/static/media/condiment_bowl.3c90e2811d263c63213e.png",
+    "static/media/4.png": "/static/media/4.b53b8612185e765d8fbd.png",
+    "static/media/pestle_mortar.png": "/static/media/pestle_mortar.b53b8612185e765d8fbd.png",
+    "static/media/bowl.png": "/static/media/bowl.d6da425a904ce1cb2d92.png",
+    "static/media/ga-logo.png": "/static/media/ga-logo.1db5de0f664f6c29d8e9.png",
+    "static/media/header-logo.png": "/static/media/header-logo.736f9d379a1390de9b96.png",
+    "static/media/navbar-logo.png": "/static/media/navbar-logo.9afee5b72347aaa4673e.png",
+    "index.html": "/index.html",
+    "main.7dc1677b.css.map": "/static/css/main.7dc1677b.css.map",
+    "main.623ca4c7.js.map": "/static/js/main.623ca4c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc1677b.css",
+    "static/js/main.623ca4c7.js"
+  ]
+}
