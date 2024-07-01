@@ -1,0 +1,35 @@
+.second--navbar {
+    height: 20vh;
+    width: 100vw;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    border-bottom: 1px solid lightgrey;
+}
+
+.second--navbar--img {
+    width: 12vw;
+    margin: 1vh 0  0 42vw;
+}
+
+.second--navbar--button--wrapper {
+    width: 100vw;
+    height: 6vh;
+    margin-top: 10vh;
+    padding-top: 10vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    top: 1px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.second--navbar--buttons {
+    display: flex;
+    margin: 1vh 0 0 73.5vw;
+    float: right
+}
+
+.navbar--button {
+    margin: 0 1em
+}

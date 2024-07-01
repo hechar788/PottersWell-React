@@ -1,0 +1,60 @@
+.hero--parent-wrapper {
+    height: 65vh;
+    width: 95vw;
+    display: flex;
+    margin: 4vh 0 0 2vw;
+    padding: 2.5vh 0 5vh;
+    background: rgb(242,245,253);
+    background: linear-gradient(90deg, rgb(242,245,253) 0%, rgba(255,255,255,1) 7%, rgba(248,252,255,1) 50%, rgba(241,244,253,1) 100%); 
+}
+.hero--text-wrapper {
+    border-radius: 15px;
+    margin: 7vh .5vw 0 65px;
+    width: 40vw;
+}
+
+.hero--main-header {
+    margin: 5px 0 0;
+    font-weight: 500;
+    font-size: 2.5vmax;
+    font-family: 'Lora'; 
+}
+
+.hero--sub-header {
+    margin: 3vmax 0 0;
+    font-weight: 400;  
+    font-size: 1.2vmax;
+    font-family: 'IBM Plex Sans';   
+    text-align: left;
+}
+
+.hero--img {
+    margin: 5vh 0 0 3vw;
+    width: 50vw;
+    height: 58vh;
+    border-radius: 12px;
+}
+
+.hero--buttons {
+    margin: 9vh 0 0 10vw;
+    width: 12.5vw;
+    height: 4.5vh;
+    font-size: 1.8vb;
+    font-weight: 500;
+
+    background-color: white;
+    color: rgba(103, 108, 239, 0.881);
+    border-color: rgba(103, 108, 239, 0.881);
+    border-radius: 8px;
+    border-width: 1px;
+    
+    transition: opacity 0.25s, color 0.8s, box-shadow 3s;
+    cursor: pointer;
+}
+    
+.hero--buttons:hover {
+    opacity: 0.7;
+    background-color: rgba(103, 108, 239, 0.881);
+    color: white;
+    box-shadow: -5px 5px 20px rgba(53, 60, 247, 0.385);
+}

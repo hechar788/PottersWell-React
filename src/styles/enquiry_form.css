@@ -1,0 +1,79 @@
+.background {
+    width: 80vw;
+    height: 65vh;
+    margin: 15vh 0 0 10vw;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(241,244,253);
+    background: radial-gradient(circle, rgba(241,244,253,1) 0%, rgba(248,250,254,1) 38%, rgba(250,252,254,1) 42%, rgba(255,255,255,1) 50%, rgba(250,251,254,1) 62%, rgba(241,244,253,1) 100%); 
+}
+
+.form--wrapper {
+    background-color: white;
+    height: 35vh;
+    width:65vw;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    border-radius: 12px;
+    margin-bottom: 2vh;
+}
+
+.form--title {
+    font-size: 2em;
+    color: white;
+    background: rgb(225, 232, 255);
+    padding: 1vh 1vw;
+    margin: 0 35vw 5vh 0;
+    border-radius: 8px;
+}
+
+form--name-email--wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    height: 4.5vh;
+    width: 15vw;
+    margin: 0 1vw 2vh 2vw;
+    border-radius: 6px;
+}
+
+input[type=email] {
+    width: 20vw;
+}
+
+textarea {
+    height: 15vh;
+    width: 60vw;
+    font-size: 1.1em;
+    margin: 0 0 2vh 2vw;
+    border-radius: 6px;
+}
+
+.enquiry--button {
+    width: 7vw;
+    height: 4vh;
+    font-size: .75rem;
+    font-weight: bold;
+    margin-left: 2vw;
+
+    background-color: white;
+    color: rgba(103, 108, 239, 0.881);
+    border-color: rgba(103, 108, 239, 0.881);
+    border-radius: 5px;
+    border-width: 1px;
+    
+    transition: opacity 0.25s, color 0.8s, box-shadow 3s;
+}
+    
+.enquiry--button:hover {
+    opacity: 0.7;
+    background-color: rgba(103, 108, 239, 0.881);
+    color: white;
+    box-shadow: -5px 5px 20px rgba(53, 60, 247, 0.385);
+}

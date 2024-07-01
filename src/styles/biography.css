@@ -1,0 +1,44 @@
+.biography--main--wrapper {
+    width: 92%;
+    height: 1350px;
+    margin: 25vh 0% 0% 4%;
+    border-radius: 48px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.biography--first--section, .biography--second--section {
+    display: flex;
+}
+
+.biography--second--section {
+    margin-top: 120px;
+}
+
+.biography--text--wrapper {
+    margin: 90px 0 0 0;
+    width: 50%;
+    text-align: center;
+}
+
+.biography--text--wrapper--two {
+    margin: 80px 0 0 80px;
+    width: 40%;
+    text-align: center;
+}
+
+.biography--picture--wrapper {
+    width: 40%;
+}
+.biography--img {
+    margin: 80px 0 0 100px;
+    width: 480px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.biography--main--header {
+    color: rgba(132, 91, 13, 0.881);
+    margin-bottom: 65px;
+}
